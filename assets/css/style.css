@@ -53,15 +53,27 @@ body
         }
 
 
+.w1 {
+	padding-left: 0%;
+	padding-right: 0%;
+}
 
-header
-        {
-        margin: auto;
-        background: white;
-        border-bottom: #cccccc 20px;
-        height: 70px
-        }
 
+.w2 {
+	padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+	border-bottom: 2px solid gray;
+	color: white;
+}
+
+.w3 {
+	background: #4aaaa5;
+	padding: 20px;
+	color: white;
+	font-size: 30px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
 
 .headerlinks
         {
